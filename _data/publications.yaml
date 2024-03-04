@@ -1,17 +1,24 @@
 papers:
-
-  - title: "Robust Distortion-free Watermarks for Language Models"
-    authors: "Rohith Kuditipudi, John Thickstun, Tatsunori Hashimoto, Percy Liang"
-    venue: "ArXiv preprint"
-    paper_pdf: https://arxiv.org/pdf/2307.15593.pdf
-    statsml: y
+  - title: "A probabilistic generative model for tracking multi-knowledge concept mastery probability"
+    authors: "Hengyu Liu, Tiancheng Zhang, Fan Li, Minghe Yu, Ge Yu"
+    venue: "Front. Comput. Sci., 2024, 18(3): 183602"
+    paper_pdf: "https://ui.adsabs.harvard.edu/abs/2023arXiv230208673L/abstract"
     selected: y
+    kt: y
+    bio: y
 
-  - title: "One Step of Gradient Descent is Provably the Optimal In-Context Learner with One Layer of Linear Self-Attention"
-    authors: "Arvind Mahankali, Tatsunori B. Hashimoto, Tengyu Ma"
-    venue: "ArXiv preprint"
-    paper_pdf: https://arxiv.org/pdf/2307.03576.pdf
-    statsml: y
+  - title: "Gbk-gnn: Gated bi-kernel graph neural networks for modeling both homophily and heterophily"
+    authors: "Lun Du, Xiaozhou Shi, Qiang Fu, Xiaojun Ma, Hengyu Liu, Shi Han, Dongmei Zhang"
+    venue: "Proceedings of the ACM Web Conference 2022"
+    paper_pdf: "https://arxiv.org/abs/2110.15777"
+    selected: y
+    gnn: y
+    bio: y
 
-
-
+  - title: "GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking"
+    authors: "Jiayan Guo, Lun Du, Hengyu Liu"
+    venue: "arXiv preprint arXiv:2305.15066"
+    paper_pdf: "https://arxiv.org/abs/2110.15777"
+    selected: y
+    gnn: y
+    bio: y

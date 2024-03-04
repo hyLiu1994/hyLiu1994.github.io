@@ -86,10 +86,10 @@ title: Home
     </div>
     
 
-    <!-- ML PAPERS -->
-    <div class="tab-pane" id="papers-ML">
-      {% assign ml_papers = site.data.publications.papers | where: "statsml", "y" %}
-      {% for paper in ml_papers %}
+    <!-- KT PAPERS -->
+    <div class="tab-pane" id="papers-KT">
+      {% assign kt_papers = site.data.publications.papers | where: "kt", "y" %}
+      {% for paper in kt_papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b>
             {% if paper.paper_pdf %}
@@ -117,10 +117,10 @@ title: Home
       {% endfor %}
     </div>
 
-    <!-- NLP PAPERS -->
+    <!-- GNN PAPERS -->
     <div class="tab-pane" id="papers-NLP">
-      {% assign nlp_papers = site.data.publications.papers | where: "nlp", "y" %}
-      {% for paper in nlp_papers %}
+      {% assign gnn_papers = site.data.publications.papers | where: "gnn", "y" %}
+      {% for paper in gnn_papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b>
           {% if paper.paper_pdf %}
@@ -144,6 +144,7 @@ title: Home
         </div>
       {% endfor %}
     </div>
+
     <!-- Bio PAPERS -->
     <div class="tab-pane" id="papers-Bio">
       {% assign bio_papers = site.data.publications.papers | where: "bio", "y" %}
