@@ -5,7 +5,6 @@ papers:
     paper_pdf: "https://ui.adsabs.harvard.edu/abs/2023arXiv230208673L/abstract"
     selected: y
     kt: y
-    bio: y
 
   - title: "Gbk-gnn: Gated bi-kernel graph neural networks for modeling both homophily and heterophily"
     authors: "Lun Du, Xiaozhou Shi, Qiang Fu, Xiaojun Ma, Hengyu Liu, Shi Han, Dongmei Zhang"
@@ -13,7 +12,6 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2110.15777"
     selected: y
     gnn: y
-    bio: y
 
   - title: "GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking"
     authors: "Jiayan Guo, Lun Du, Hengyu Liu"
@@ -21,4 +19,3 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2110.15777"
     selected: y
     gnn: y
-    bio: y
