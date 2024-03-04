@@ -14,7 +14,7 @@ title: Home
 <div class="docs-section" id="publications">
   <h4>Publications</h4>
 
-  <p>Most recent publications on <a href="https://scholar.google.com/citations?user=5ygiTwsAAAAJ" target="_blank">Google Scholar</a>.</p>
+  <p>Most recent publications on <a href="https://scholar.google.com/citations?user=kmPGgEYAAAAJ&hl=en" target="_blank">Google Scholar</a>.</p>
 
   <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-sel">Selected and Recent Papers</div></li>
@@ -25,7 +25,6 @@ title: Home
   </ul>
 
   <div class="tab-content">
-
     <div class="tab-pane active" id="papers-sel">
       {% assign papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in papers %}
@@ -50,7 +49,6 @@ title: Home
           <p>{{ paper.authors }}</p>
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
-
           </div>
         </div>
       {% endfor %}
