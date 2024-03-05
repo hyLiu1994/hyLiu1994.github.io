@@ -6,6 +6,33 @@ papers:
     selected: y
     kt: y
 
+  - title: "A sampling method based on forecasting and combinatorial optimization for high performance A/B testing"
+    authors: Fan Li, Tiancheng Zhang, Shengjia Cui, Hengyu Liu, Zhibin Ren, Donglin Di, Xiao Wang, Po Zhang, Ge Yu
+    venue: "Front. Comput. Sci., 2023, 17(6): 176616"
+    paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11704-023-3460-7.pdf"
+    selected: y
+
+  - title: "Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations"
+    authors: "Hui Chen, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
+    venue: "arXiv preprint arXiv:2309.15499"
+    paper_pdf: "https://arxiv.org/pdf/2309.15499.pdf"
+    selected: y
+    fl: y
+
+  - title: "A subspace constraint based approach for fast hierarchical graph embedding"
+    authors: "Minghe Yu, Xu Chen, Xinhao Gu, Hengyu Liu, Lun Du"
+    venue: "World Wide Web 26.5 (2023): 3691-3705"
+    paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11280-023-01177-9.pdf"
+    selected: y
+    gnn: y
+
+  - title: "Leveraging LLMs for KPIs Retrieval from Hybrid Long-Document: A Comprehensive Framework and Dataset"
+    authors: "Chongjian Yue, Xinrun Xu, Xiaojun Ma, Lun Du, Hengyu Liu, Zhiming Ding, Yanbing Jiang, Shi Han, Dongmei Zhang"
+    venue: "arXiv preprint arXiv:2305.16344"
+    paper_pdf: "https://arxiv.org/pdf/2305.16344.pdf"
+    selected: y
+    llm: y
+  
   - title: "Gbk-gnn: Gated bi-kernel graph neural networks for modeling both homophily and heterophily"
     authors: "Lun Du, Xiaozhou Shi, Qiang Fu, Xiaojun Ma, Hengyu Liu, Shi Han, Dongmei Zhang"
     venue: "Proceedings of the ACM Web Conference 2022"
@@ -20,8 +47,5 @@ papers:
     selected: y
     gnn: y
   
-  - title: "A sampling method based on forecasting and combinatorial optimization for high performance A/B testing"
-    authors: Fan Li, Tiancheng Zhang, Shengjia Cui, Hengyu Liu, Zhibin Ren, Donglin Di, Xiao Wang, Po Zhang, Ge Yu
-    venue: "Front. Comput. Sci., 2023, 17(6): 176616"
-    paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11704-023-3460-7.pdf"
+
     
