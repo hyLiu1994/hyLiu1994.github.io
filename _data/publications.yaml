@@ -19,3 +19,9 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2110.15777"
     selected: y
     gnn: y
+  
+  - title: "A sampling method based on forecasting and combinatorial optimization for high performance A/B testing"
+    authors: Fan Li, Tiancheng Zhang, Shengjia Cui, Hengyu Liu, Zhibin Ren, Donglin Di, Xiao Wang, Po Zhang, Ge Yu
+    venue: "Front. Comput. Sci., 2023, 17(6): 176616"
+    paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11704-023-3460-7.pdf"
+    
