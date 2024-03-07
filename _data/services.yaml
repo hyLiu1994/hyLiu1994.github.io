@@ -1,0 +1,33 @@
+services:
+  - title: "22nd IEEE International Conference on Industrial Informatics"
+    role: Organizer
+    conference: y
+
+  - title: "The 29th International Conference on Database System for Advanced Applications (DASFAA 2024)"
+    role: PC Member
+    conference: y
+
+  - title: "The 38th Annual AAAI Conference on Artifical Intelligence (AAAI 2024)"
+    role: PC Member
+    conference: y
+  
+  - title: "The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
+    role: Reviewer
+    conference: y
+
+  - title: "The 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)"
+    role: Reviewer
+    conference: y
+  
+  - title: "2023 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023)"
+    role: Reviewer
+    conference: y
+
+
+  - title: "Sustainability: Special Issue \"Renewable and Sustainable Energy Systems: Architecture, Methodology and Technology, 2nd Edition\""
+    role: Leading Guest Editor
+    journal: y
+  
+  - title: "IEEE Transaction Knowledge and Data Engineering 2023"
+    role: Reviewer
+    journal: y
