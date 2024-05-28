@@ -28,6 +28,10 @@ services:
     role: Leading Guest Editor
     journal: y
   
+  - title: "Transactions on Knowledge Discovery from Data 2024"
+    role: Reviewer
+    journal: y
+    
   - title: "IEEE Transaction Knowledge and Data Engineering 2023"
     role: Reviewer
     journal: y
