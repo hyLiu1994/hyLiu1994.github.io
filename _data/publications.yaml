@@ -17,29 +17,24 @@ papers:
     venue: "arXiv preprint arXiv:2309.15499"
     paper_pdf: "https://arxiv.org/pdf/2309.15499.pdf"
     selected: y
-    fl: y
 
   - title: "A subspace constraint based approach for fast hierarchical graph embedding"
     authors: "Minghe Yu, Xu Chen, Xinhao Gu, Hengyu Liu, Lun Du"
     venue: "World Wide Web 26.5 (2023): 3691-3705"
     paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11280-023-01177-9.pdf"
     selected: y
-    gnn: y
 
   - title: "GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking"
     authors: "Jiayan Guo, Lun Du, Hengyu Liu"
     venue: "arXiv preprint arXiv:2305.15066"
     paper_pdf: "https://arxiv.org/abs/2110.15777"
     selected: y
-    gnn: y
-    llm: y
 
   - title: "Leveraging LLMs for KPIs Retrieval from Hybrid Long-Document: A Comprehensive Framework and Dataset"
     authors: "Chongjian Yue, Xinrun Xu, Xiaojun Ma, Lun Du, Hengyu Liu, Zhiming Ding, Yanbing Jiang, Shi Han, Dongmei Zhang"
     venue: "arXiv preprint arXiv:2305.16344"
     paper_pdf: "https://arxiv.org/pdf/2305.16344.pdf"
     selected: y
-    llm: y
 
   - title: "Learning Rate Perturbation: A Generic Plugin of Learning Rate Schedule towards Flatter Local Minima"
     authors: "Hengyu Liu, Qiang Fu, Lun Du, Tiancheng Zhang, Ge Yu, Shi Han, Dongmei Zhang"
@@ -52,35 +47,30 @@ papers:
     venue: "Proceedings of the ACM Web Conference 2022"
     paper_pdf: "https://arxiv.org/abs/2110.15777"
     selected: y
-    gnn: y
 
   - title: "Htgn-btw: Heterogeneous temporal graph network with bi-time-window training strategy for temporal link prediction"
     authors: "Chongjian Yue, Lun Du, Qiang Fu, Wendong Bi, Hengyu Liu, Yu Gu, Di Yao"
     venue: "arXiv preprint arXiv:2202.12713"
     paper_pdf: "https://arxiv.org/pdf/2202.12713.pdf"
     selected: y
-    gnn: y
 
   - title: "Tracking knowledge structures and proficiencies of students with learning transfer"
     authors: "Hengyu Liu, Tiancheng Zhang, Fan Li, Yu Gu, Ge Yu"
     venue: "IEEE Access 9, 55413-55421"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230428"
     selected: y
-    kt: y
   
   - title: "A review of knowledge tracking"
     authors: "Hengyu Liu, Tiancheng Zhang, Peiwen Wu, Ge Yu"
     venue: "Journal of East China Normal University (Natural Science Edition), 1-15"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230428"
     selected: y
-    kt: y
   
   - title: "ELM-based convolutional neural networks making move prediction in Go"
     authors: "Xiangguo Zhao, Zhongyu Ma, Boyang Li, Zhen Zhang, Hengyu Liu"
     venue: "Soft Computing 22 (11), 3591-3601"
     paper_pdf: "https://link.springer.com/article/10.1007/s00500-018-3158-1"
     selected: y
-    rl: y
   
   - title: "Real-Time Driver Fatigue Detection Based on ELM"
     authors: "Hengyu Liu, Tiancheng Zhang, Haibin Xie, Hongbiao Chen, Fangfang Li"
