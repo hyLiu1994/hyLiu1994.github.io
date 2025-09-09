@@ -1,10 +1,26 @@
 papers:
+  - title: "RobustZero: Enhancing MuZero Reinforcement Learning Robustness to State Perturbations"
+    authors: "Yushuai Li, Hengyu Liu, Torben Bach Pedersen, Yuqiang He, Kim Guldstrand Larsen, Jiachen Xu, Lu Chen, Christian S. Jensen, Tianyi Li"
+    venue: "ICML 2025"
+    paper_pdf: "https://openreview.net/pdf?id=DaOdkXgLvE"
+    selected: y
+
+  - title: "FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification"
+    authors: "Hui Chen, Hengyu Liu, Xuhui Fan, Zhangkai Wu and Longbing Cao"
+    venue: "IEEE Transactions on Neural Networks and Learning Systems 2025"
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10988883"
+    selected: y
+
+  - title: "CoSrch: Syntactic and Semantic Structure-Aware Code Representation for Effective Code Search"
+    authors: "Jia Xu, Yuqiang He, Hengyu Liu, Lv Pin, and Tiancheng Zhang"
+    venue: "IEEE Transactions on Software Engineering and Methodology 2025"
+    selected: y
+
   - title: "A probabilistic generative model for tracking multi-knowledge concept mastery probability"
     authors: "Hengyu Liu, Tiancheng Zhang, Fan Li, Minghe Yu, Ge Yu"
     venue: "Front. Comput. Sci., 2024, 18(3): 183602"
     paper_pdf: "https://ui.adsabs.harvard.edu/abs/2023arXiv230208673L/abstract"
     selected: y
-    kt: y
 
   - title: "A sampling method based on forecasting and combinatorial optimization for high performance A/B testing"
     authors: Fan Li, Tiancheng Zhang, Shengjia Cui, Hengyu Liu, Zhibin Ren, Donglin Di, Xiao Wang, Po Zhang, Ge Yu
@@ -34,7 +50,6 @@ papers:
     authors: "Chongjian Yue, Xinrun Xu, Xiaojun Ma, Lun Du, Hengyu Liu, Zhiming Ding, Yanbing Jiang, Shi Han, Dongmei Zhang"
     venue: "arXiv preprint arXiv:2305.16344"
     paper_pdf: "https://arxiv.org/pdf/2305.16344.pdf"
-    selected: y
 
   - title: "Learning Rate Perturbation: A Generic Plugin of Learning Rate Schedule towards Flatter Local Minima"
     authors: "Hengyu Liu, Qiang Fu, Lun Du, Tiancheng Zhang, Ge Yu, Shi Han, Dongmei Zhang"
@@ -52,7 +67,6 @@ papers:
     authors: "Chongjian Yue, Lun Du, Qiang Fu, Wendong Bi, Hengyu Liu, Yu Gu, Di Yao"
     venue: "arXiv preprint arXiv:2202.12713"
     paper_pdf: "https://arxiv.org/pdf/2202.12713.pdf"
-    selected: y
 
   - title: "Tracking knowledge structures and proficiencies of students with learning transfer"
     authors: "Hengyu Liu, Tiancheng Zhang, Fan Li, Yu Gu, Ge Yu"
@@ -70,7 +84,6 @@ papers:
     authors: "Xiangguo Zhao, Zhongyu Ma, Boyang Li, Zhen Zhang, Hengyu Liu"
     venue: "Soft Computing 22 (11), 3591-3601"
     paper_pdf: "https://link.springer.com/article/10.1007/s00500-018-3158-1"
-    selected: y
   
   - title: "Real-Time Driver Fatigue Detection Based on ELM"
     authors: "Hengyu Liu, Tiancheng Zhang, Haibin Xie, Hongbiao Chen, Fangfang Li"
