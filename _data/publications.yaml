@@ -57,19 +57,16 @@ papers:
     authors: "Hui Chen, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
     venue: "arXiv preprint arXiv:2309.15499"
     paper_pdf: "https://arxiv.org/pdf/2309.15499.pdf"
-    selected: y
 
   - title: "Tracking knowledge structures and proficiencies of students with learning transfer"
     authors: "Hengyu Liu, Tiancheng Zhang, Fan Li, Yu Gu, Ge Yu"
     venue: "IEEE Access 9, 55413-55421"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230428"
-    selected: y
   
   - title: "A review of knowledge tracking"
     authors: "Hengyu Liu, Tiancheng Zhang, Peiwen Wu, Ge Yu"
     venue: "Journal of East China Normal University (Natural Science Edition), 1-15"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230428"
-    selected: y
   
   - title: "ELM-based convolutional neural networks making move prediction in Go"
     authors: "Xiangguo Zhao, Zhongyu Ma, Boyang Li, Zhen Zhang, Hengyu Liu"
