@@ -1,13 +1,21 @@
 services:
-  - title: "22nd IEEE International Conference on Industrial Informatics"
-    role: Organizer
-    conference: y
-
-  - title: "The 29th International Conference on Database System for Advanced Applications (DASFAA 2024)"
+  - title: "The 39th, 40th Annual AAAI Conference on Artifical Intelligence (AAAI 2025, 2026)"
     role: PC Member
     conference: y
 
-  - title: "The 38th Annual AAAI Conference on Artifical Intelligence (AAAI 2024)"
+  - title: "The 38th, 39th, 40th Annual AAAI Conference on Artifical Intelligence for Social Impact (AISI 2024, 2025, 2026)"
+    role: PC Member
+    conference: y
+
+  - title: "The 29th, 30th International Conference on Database System for Advanced Applications (DASFAA 2024, 2025)"
+    role: PC Member
+    conference: y
+
+  - title: "The 8th IEEE Conference on Energy Internet and Energy system Integration (EI2 2024)"
+    role: PC Member
+    conference: y
+
+  - title: "The 12th International Conference on Behavioural and Social Computing (BESC 2025)"
     role: PC Member
     conference: y
   
@@ -23,11 +31,22 @@ services:
     role: Reviewer
     conference: y
 
-
   - title: "Sustainability: Special Issue \"Renewable and Sustainable Energy Systems: Architecture, Methodology and Technology, 2nd Edition\""
     role: Leading Guest Editor
     journal: y
   
+  - title: "Information Fusion 2025"
+    role: Reviewer
+    journal: y
+  
+  - title: "Transactions on Consumer Electronics 2025"
+    role: Reviewer
+    journal: y
+  
+  - title: "Journal of Advances in Information Technology 2025"
+    role: Reviewer
+    journal: y
+
   - title: "Transactions on Knowledge Discovery from Data 2024"
     role: Reviewer
     journal: y

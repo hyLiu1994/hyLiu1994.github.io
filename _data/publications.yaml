@@ -28,16 +28,22 @@ papers:
     paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11704-023-3460-7.pdf"
     selected: y
 
-  - title: "Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations"
-    authors: "Hui Chen, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
-    venue: "arXiv preprint arXiv:2309.15499"
-    paper_pdf: "https://arxiv.org/pdf/2309.15499.pdf"
-    selected: y
-
   - title: "A subspace constraint based approach for fast hierarchical graph embedding"
     authors: "Minghe Yu, Xu Chen, Xinhao Gu, Hengyu Liu, Lun Du"
     venue: "World Wide Web 26.5 (2023): 3691-3705"
     paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11280-023-01177-9.pdf"
+    selected: y
+
+  - title: "Learning Rate Perturbation: A Generic Plugin of Learning Rate Schedule towards Flatter Local Minima"
+    authors: "Hengyu Liu, Qiang Fu, Lun Du, Tiancheng Zhang, Ge Yu, Shi Han, Dongmei Zhang"
+    venue: "Proceedings of the 31st ACM International Conference on Information & Knowledge Management"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557626"
+    selected: y
+
+  - title: "Gbk-gnn: Gated bi-kernel graph neural networks for modeling both homophily and heterophily"
+    authors: "Lun Du, Xiaozhou Shi, Qiang Fu, Xiaojun Ma, Hengyu Liu, Shi Han, Dongmei Zhang"
+    venue: "Proceedings of the ACM Web Conference 2022"
+    paper_pdf: "https://arxiv.org/abs/2110.15777"
     selected: y
 
   - title: "GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking"
@@ -46,27 +52,12 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2110.15777"
     selected: y
 
-  - title: "Leveraging LLMs for KPIs Retrieval from Hybrid Long-Document: A Comprehensive Framework and Dataset"
-    authors: "Chongjian Yue, Xinrun Xu, Xiaojun Ma, Lun Du, Hengyu Liu, Zhiming Ding, Yanbing Jiang, Shi Han, Dongmei Zhang"
-    venue: "arXiv preprint arXiv:2305.16344"
-    paper_pdf: "https://arxiv.org/pdf/2305.16344.pdf"
 
-  - title: "Learning Rate Perturbation: A Generic Plugin of Learning Rate Schedule towards Flatter Local Minima"
-    authors: "Hengyu Liu, Qiang Fu, Lun Du, Tiancheng Zhang, Ge Yu, Shi Han, Dongmei Zhang"
-    venue: "Proceedings of the 31st ACM International Conference on Information & Knowledge Management"
-    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557626"
+  - title: "Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations"
+    authors: "Hui Chen, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
+    venue: "arXiv preprint arXiv:2309.15499"
+    paper_pdf: "https://arxiv.org/pdf/2309.15499.pdf"
     selected: y
-   
-  - title: "Gbk-gnn: Gated bi-kernel graph neural networks for modeling both homophily and heterophily"
-    authors: "Lun Du, Xiaozhou Shi, Qiang Fu, Xiaojun Ma, Hengyu Liu, Shi Han, Dongmei Zhang"
-    venue: "Proceedings of the ACM Web Conference 2022"
-    paper_pdf: "https://arxiv.org/abs/2110.15777"
-    selected: y
-
-  - title: "Htgn-btw: Heterogeneous temporal graph network with bi-time-window training strategy for temporal link prediction"
-    authors: "Chongjian Yue, Lun Du, Qiang Fu, Wendong Bi, Hengyu Liu, Yu Gu, Di Yao"
-    venue: "arXiv preprint arXiv:2202.12713"
-    paper_pdf: "https://arxiv.org/pdf/2202.12713.pdf"
 
   - title: "Tracking knowledge structures and proficiencies of students with learning transfer"
     authors: "Hengyu Liu, Tiancheng Zhang, Fan Li, Yu Gu, Ge Yu"
@@ -89,6 +80,18 @@ papers:
     authors: "Hengyu Liu, Tiancheng Zhang, Haibin Xie, Hongbiao Chen, Fangfang Li"
     venue: "Proceedings of ELM-2015 Volume 2 (2016): 423."
     paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-319-28373-9_36"
+
+  - title: "Leveraging LLMs for KPIs Retrieval from Hybrid Long-Document: A Comprehensive Framework and Dataset"
+    authors: "Chongjian Yue, Xinrun Xu, Xiaojun Ma, Lun Du, Hengyu Liu, Zhiming Ding, Yanbing Jiang, Shi Han, Dongmei Zhang"
+    venue: "arXiv preprint arXiv:2305.16344"
+    paper_pdf: "https://arxiv.org/pdf/2305.16344.pdf"
+
+  - title: "Htgn-btw: Heterogeneous temporal graph network with bi-time-window training strategy for temporal link prediction"
+    authors: "Chongjian Yue, Lun Du, Qiang Fu, Wendong Bi, Hengyu Liu, Yu Gu, Di Yao"
+    venue: "arXiv preprint arXiv:2202.12713"
+    paper_pdf: "https://arxiv.org/pdf/2202.12713.pdf"
+
+
 
   
 
