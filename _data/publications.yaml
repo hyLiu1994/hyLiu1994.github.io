@@ -2,6 +2,7 @@ papers:
   - title: "MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data"
     authors: "Hengyu Liu, Tianyi Li, Yuqiang He, Kristian Torp, Yushuai Li, Christian S Jensen"
     venue: "VLDB 2026"
+    paper_pdf: "https://arxiv.org/pdf/2507.20362?"
     selected: y
 
   - title: "RobustZero: Enhancing MuZero Reinforcement Learning Robustness to State Perturbations"
