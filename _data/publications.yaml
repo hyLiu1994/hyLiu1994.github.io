@@ -1,4 +1,9 @@
 papers:
+  - title: "MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data"
+    authors: "Hengyu Liu, Tianyi Li, Yuqiang He, Kristian Torp, Yushuai Li, Christian S Jensen"
+    venue: "VLDB 2026"
+    selected: y
+
   - title: "RobustZero: Enhancing MuZero Reinforcement Learning Robustness to State Perturbations"
     authors: "Yushuai Li, Hengyu Liu, Torben Bach Pedersen, Yuqiang He, Kim Larsen, Jiachen Xu, Lu Chen, Christian S. Jensen, Tianyi Li"
     venue: "ICML 2025"
@@ -51,7 +56,6 @@ papers:
     venue: "arXiv preprint arXiv:2305.15066"
     paper_pdf: "https://arxiv.org/abs/2110.15777"
     selected: y
-
 
   - title: "Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations"
     authors: "Hui Chen, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
