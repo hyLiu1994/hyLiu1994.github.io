@@ -1,8 +1,8 @@
 papers:
   - title: "MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data"
-    authors: "Hengyu Liu, Tianyi Li, Yuqiang He, Kristian Torp, Yushuai Li, Christian S Jensen"
+    authors: "Hengyu Liu, Tianyi Li, Yuqiang He, Kristian Torp, Yushuai Li, Christian S. Jensen"
     venue: "VLDB 2026"
-    paper_pdf: "https://arxiv.org/pdf/2507.20362?"
+    paper_pdf: "https://arxiv.org/pdf/2507.20362"
     selected: y
 
   - title: "RobustZero: Enhancing MuZero Reinforcement Learning Robustness to State Perturbations"
@@ -12,50 +12,50 @@ papers:
     selected: y
 
   - title: "FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification"
-    authors: "Hui Chen, Hengyu Liu, Xuhui Fan, Zhangkai Wu and Longbing Cao"
+    authors: "Hui Chen, Hengyu Liu, Xuhui Fan, Zhangkai Wu, Longbing Cao"
     venue: "IEEE Transactions on Neural Networks and Learning Systems 2025"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10988883"
     selected: y
 
   - title: "CoSrch: Syntactic and Semantic Structure-Aware Code Representation for Effective Code Search"
-    authors: "Jia Xu, Yuqiang He, Hengyu Liu, Lv Pin, and Tiancheng Zhang"
+    authors: "Jia Xu, Yuqiang He, Hengyu Liu, Lv Pin, Tiancheng Zhang"
     venue: "IEEE Transactions on Software Engineering and Methodology 2025"
     selected: y
 
-  - title: "A probabilistic generative model for tracking multi-knowledge concept mastery probability"
+  - title: "A Probabilistic Generative Model for Tracking Multi-Knowledge Concept Mastery Probability"
     authors: "Hengyu Liu, Tiancheng Zhang, Fan Li, Minghe Yu, Ge Yu"
     venue: "Front. Comput. Sci., 2024, 18(3): 183602"
     paper_pdf: "https://ui.adsabs.harvard.edu/abs/2023arXiv230208673L/abstract"
     selected: y
 
-  - title: "Learning Rate Perturbation: A Generic Plugin of Learning Rate Schedule towards Flatter Local Minima"
+  - title: "Learning Rate Perturbation: A Generic Plugin of Learning Rate Schedule Towards Flatter Local Minima"
     authors: "Hengyu Liu, Qiang Fu, Lun Du, Tiancheng Zhang, Ge Yu, Shi Han, Dongmei Zhang"
     venue: "Proceedings of the 31st ACM International Conference on Information & Knowledge Management"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557626"
     selected: y
 
-  - title: "A sampling method based on forecasting and combinatorial optimization for high performance A/B testing"
-    authors: Fan Li, Tiancheng Zhang, Shengjia Cui, Hengyu Liu, Zhibin Ren, Donglin Di, Xiao Wang, Po Zhang, Ge Yu
+  - title: "A Sampling Method Based on Forecasting and Combinatorial Optimization for High-Performance A/B Testing"
+    authors: "Fan Li, Tiancheng Zhang, Shengjia Cui, Hengyu Liu, Zhibin Ren, Donglin Di, Xiao Wang, Po Zhang, Ge Yu"
     venue: "Front. Comput. Sci., 2023, 17(6): 176616"
     paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11704-023-3460-7.pdf"
     selected: y
 
-  - title: "A subspace constraint based approach for fast hierarchical graph embedding"
+  - title: "A Subspace Constraint-Based Approach for Fast Hierarchical Graph Embedding"
     authors: "Minghe Yu, Xu Chen, Xinhao Gu, Hengyu Liu, Lun Du"
     venue: "World Wide Web 26.5 (2023): 3691-3705"
     paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11280-023-01177-9.pdf"
     selected: y
 
-  - title: "Gbk-gnn: Gated bi-kernel graph neural networks for modeling both homophily and heterophily"
+  - title: "GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily"
     authors: "Lun Du, Xiaozhou Shi, Qiang Fu, Xiaojun Ma, Hengyu Liu, Shi Han, Dongmei Zhang"
     venue: "Proceedings of the ACM Web Conference 2022"
     paper_pdf: "https://arxiv.org/abs/2110.15777"
     selected: y
 
-  - title: "GPT4Graph: Can Large Language Models Understand Graph Structured Data? An Empirical Evaluation and Benchmarking"
+  - title: "GPT4Graph: Can Large Language Models Understand Graph-Structured Data? An Empirical Evaluation and Benchmarking"
     authors: "Jiayan Guo, Lun Du, Hengyu Liu"
     venue: "arXiv preprint arXiv:2305.15066"
-    paper_pdf: "https://arxiv.org/abs/2110.15777"
+    paper_pdf: "https://arxiv.org/abs/2305.15066"
     selected: y
 
   - title: "Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations"
@@ -63,22 +63,22 @@ papers:
     venue: "arXiv preprint arXiv:2309.15499"
     paper_pdf: "https://arxiv.org/pdf/2309.15499.pdf"
 
-  - title: "Tracking knowledge structures and proficiencies of students with learning transfer"
+  - title: "Tracking Knowledge Structures and Proficiencies of Students with Learning Transfer"
     authors: "Hengyu Liu, Tiancheng Zhang, Fan Li, Yu Gu, Ge Yu"
     venue: "IEEE Access 9, 55413-55421"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230428"
   
-  - title: "A review of knowledge tracking"
+  - title: "A Review of Knowledge Tracking"
     authors: "Hengyu Liu, Tiancheng Zhang, Peiwen Wu, Ge Yu"
     venue: "Journal of East China Normal University (Natural Science Edition), 1-15"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230428"
   
-  - title: "ELM-based convolutional neural networks making move prediction in Go"
+  - title: "ELM-Based Convolutional Neural Networks for Move Prediction in Go"
     authors: "Xiangguo Zhao, Zhongyu Ma, Boyang Li, Zhen Zhang, Hengyu Liu"
     venue: "Soft Computing 22 (11), 3591-3601"
     paper_pdf: "https://link.springer.com/article/10.1007/s00500-018-3158-1"
   
   - title: "Real-Time Driver Fatigue Detection Based on ELM"
     authors: "Hengyu Liu, Tiancheng Zhang, Haibin Xie, Hongbiao Chen, Fangfang Li"
-    venue: "Proceedings of ELM-2015 Volume 2 (2016): 423."
+    venue: "Proceedings of ELM-2015 Volume 2 (2016): 423"
     paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-319-28373-9_36"

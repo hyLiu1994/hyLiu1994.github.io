@@ -7,13 +7,13 @@ experiences:
   
 - place: "Macquarie University"
   time: "July. 2023 - Sept. 2023"
-  title: "Visting Scholar"
+  title: "Visiting Scholar"
   subtitle: "Advised by Prof. Longbing Cao"
   category: "school"
 
 - place: "University of Technology Sydney"
   time: "July. 2022 - June. 2023"
-  title: "Visting Scholar"
+  title: "Visiting Scholar"
   subtitle: "Advised by Prof. Longbing Cao"
   category: "school"
 
@@ -32,5 +32,5 @@ experiences:
 - place: "Northeastern University"
   time: "Sept. 2013 - June. 2017"
   title: "Undergraduate"
-  subtitle: Computer Science and Technology.
+  subtitle: "Computer Science and Technology"
   category: "school"
