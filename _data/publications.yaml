@@ -13,13 +13,18 @@ papers:
 
   - title: "FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification"
     authors: "Hui Chen, Hengyu Liu, Xuhui Fan, Zhangkai Wu, Longbing Cao"
-    venue: "IEEE Transactions on Neural Networks and Learning Systems 2025"
+    venue: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10988883"
+    selected: y
+
+  - title: "Federated Neural Nonparametric Point Processes."
+    authors: "Hui Chen, Xuhui Fan, \textbf{Hengyu Liu}, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, and Longbing Cao"
+    venue: "Artificial Intelligence (AIJ), 2025"
     selected: y
 
   - title: "CoSrch: Syntactic and Semantic Structure-Aware Code Representation for Effective Code Search"
     authors: "Jia Xu, Yuqiang He, Hengyu Liu, Lv Pin, Tiancheng Zhang"
-    venue: "IEEE Transactions on Software Engineering and Methodology 2025"
+    venue: "ACM Transactions on Software Engineering and Methodology (TOSEM), 2025"
     selected: y
 
   - title: "A Probabilistic Generative Model for Tracking Multi-Knowledge Concept Mastery Probability"
