@@ -1,4 +1,8 @@
 services:
+  - title: "The 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026), Position Track"
+    role: Area Chair
+    conference: y
+
   - title: "The 39th, 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2025, 2026)"
     role: PC Member
     conference: y
@@ -7,7 +11,11 @@ services:
     role: PC Member
     conference: y
 
-  - title: "The 29th, 30th International Conference on Database Systems for Advanced Applications (DASFAA 2024, 2025)"
+  - title: "The 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)"
+    role: PC Member
+    conference: y
+
+  - title: "The 29th, 30th, 31st International Conference on Database Systems for Advanced Applications (DASFAA 2024, 2025, 2026)"
     role: PC Member
     conference: y
 
@@ -15,10 +23,10 @@ services:
     role: PC Member
     conference: y
 
-  - title: "The 12th International Conference on Behavioural and Social Computing (BESC 2025)"
+  - title: "The 12th International Conference on Behavioural and Social Computing (BESC 2025, 2026)"
     role: PC Member
     conference: y
-  
+
   - title: "The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
     role: Reviewer
     conference: y
@@ -26,23 +34,43 @@ services:
   - title: "The 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)"
     role: Reviewer
     conference: y
-  
+
   - title: "The 2023 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023)"
+    role: Reviewer
+    conference: y
+
+  - title: "The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)"
     role: Reviewer
     conference: y
 
   - title: "Sustainability: Special Issue \"Renewable and Sustainable Energy Systems: Architecture, Methodology and Technology, 2nd Edition\""
     role: Leading Guest Editor
     journal: y
-  
+
+  - title: "Journal of Imaging: Special Issue \"XTM-Imaging: Explainable and Trustworthy Multimodal Imaging for Real-World Applications\""
+    role: Guest Editor
+    journal: y
+
+  - title: "Scientific Reports 2026"
+    role: Reviewer
+    journal: y
+
+  - title: "Machine Learning 2026"
+    role: Reviewer
+    journal: y
+
+  - title: "Engineering Applications of Artificial Intelligence 2025"
+    role: Reviewer
+    journal: y
+
   - title: "Information Fusion 2025"
     role: Reviewer
     journal: y
-  
+
   - title: "Transactions on Consumer Electronics 2025"
     role: Reviewer
     journal: y
-  
+
   - title: "Journal of Advances in Information Technology 2025"
     role: Reviewer
     journal: y
@@ -50,7 +78,7 @@ services:
   - title: "Transactions on Knowledge Discovery from Data 2024"
     role: Reviewer
     journal: y
-    
+
   - title: "IEEE Transactions on Knowledge and Data Engineering 2023"
     role: Reviewer
     journal: y

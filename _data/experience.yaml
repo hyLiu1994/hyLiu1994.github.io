@@ -1,12 +1,18 @@
 experiences:
 - place: "Aalborg University"
-  time: "Dec. 2023 - now"
-  title: "Postdoctoral Researcher"
-  subtitle: ""
+  time: "Apr. 2026 - now"
+  title: "Assistant Professor"
+  subtitle: "Trustworthy AI for Spatio-temporal Data"
   category: "work"
-  
+
+- place: "Aalborg University"
+  time: "Nov. 2023 - Mar. 2026"
+  title: "Postdoctoral Researcher"
+  subtitle: "AI for Spatio-temporal Data Management and Analysis"
+  category: "work"
+
 - place: "Macquarie University"
-  time: "July. 2023 - Sept. 2023"
+  time: "July. 2023 - Oct. 2023"
   title: "Visiting Scholar"
   subtitle: "Advised by Prof. Longbing Cao"
   category: "school"
@@ -18,13 +24,13 @@ experiences:
   category: "school"
 
 - place: "Microsoft Research"
-  time: "June. 2021 - June. 2022"
+  time: "July. 2021 - June. 2022"
   title: "Research Intern"
   subtitle: "Data, Knowledge, and Intelligence Group"
   category: "work"
 
 - place: "Northeastern University"
-  time: "Sept. 2017 - Dec. 2023"
+  time: "Sept. 2017 - Nov. 2023"
   title: "Ph.D."
   subtitle: "Advised by Prof. Ge Yu + Tiancheng Zhang"
   category: "school"

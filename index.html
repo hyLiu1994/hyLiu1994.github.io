@@ -6,15 +6,19 @@ title: Home
 <div class="docs-section" id="bio">
   <h4>About Me</h4>
   <p>
-  I am currently a Postdoctoral Researcher at the Department of Computer Science, Aalborg University. My research interests include AI for Spatio-temporal Data Management and AI for Education. I have authored or co-authored more than 20 publications in prestigious journals and conferences, including VLDB, ICML, WWW, CIKM, TNNLS, AIJ, TOSEM and WWWJ, achieving an h-index of 9 with over 560 citations according to Google Scholar.
+    I am an Assistant Professor in the Data Engineering, Science and Systems (DESS) group at the Department of Computer Science, Aalborg University (AAU), where I joined as a Postdoctoral Researcher in November 2023. My research vision is to advance <b>interpretable and trustworthy AI-driven data management and analysis</b>, with a particular focus on spatio-temporal and mobility-related applications.
   </p>
   <p>
-  I have actively contributed to the research community by serving as a Program Committee member for leading conferences such as AAAI (2024–2026) and DASFAA (2024–2026), as well as IEEE EI2 2024 and BESC 2025. In addition, I have been invited to review for top-tier conferences and journals, including TKDE, IJCAI, CIKM, EMNLP, TKDE and TKDD.
+    I have authored or co-authored over 25 peer-reviewed publications, including six first-author papers, spanning top-tier venues such as <i>PVLDB</i>, <i>ICML</i>, <i>WWW</i>, <i>IEEE TNNLS</i>, <i>ACM TOSEM</i>, <i>Artificial Intelligence Journal</i>, and <i>Frontiers of Computer Science</i>, achieving an h-index of 10 with over 700 citations on <a href="https://scholar.google.com/citations?user=kmPGgEYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+  </p>
+  <p>
+    I actively contribute to the research community as Area Chair for NeurIPS 2026 (Position Track), Program Committee member for AAAI (2025–2026), IJCAI 2026, DASFAA (2024–2026), and BESC (2025–2026), and Guest Editor for special issues in <i>Sustainability</i> and <i>Journal of Imaging</i>. I regularly review for journals and conferences including TKDE, EAAI, EMNLP, CIKM, Information Fusion, and Machine Learning.
   </p>
   <h4>Research Interests</h4>
   <p>My current research interests include:</p>
   <ul>
-    <li>AI for Spatio-temporal Data Management</li>
+    <li>Trustworthy AI for Spatio-temporal Data</li>
+    <li>Agentic AI</li>
   </ul>
 </div>
 
@@ -24,215 +28,63 @@ title: Home
   <p>Most recent publications on <a href="https://scholar.google.com/citations?user=kmPGgEYAAAAJ&hl=en" target="_blank">Google Scholar</a>.</p>
 
   <ul class="tab-nav">
-    <li><div class="button active" data-ref="#papers-sel">Selected and Recent Papers</div></li>
-    <li><div class="button" data-ref="#papers-all">All</div></li>    
+    <li><div class="button active" data-ref="#papers-sel">Selected</div></li>
+    <li><div class="button" data-ref="#papers-2026">2026</div></li>
+    <li><div class="button" data-ref="#papers-2025">2025</div></li>
+    <li><div class="button" data-ref="#papers-2024">2024</div></li>
+    <li><div class="button" data-ref="#papers-2023">2023</div></li>
+    <li><div class="button" data-ref="#papers-earlier">Earlier</div></li>
+    <li><div class="button" data-ref="#papers-all">All</div></li>
   </ul>
 
   <div class="tab-content">
     <div class="tab-pane active" id="papers-sel">
       {% assign papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-            {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-            {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-           <div class="paper-buttons">
-          </div>
-        </div>
+        {% include paper.html paper=paper %}
       {% endfor %}
     </div>
 
-    <!-- All PAPERS -->
-    <div class="tab-pane" id="papers-all">
-      {% assign papers = site.data.publications.papers %}
+    <div class="tab-pane" id="papers-2026">
+      {% assign papers = site.data.publications.papers | where: "year", 2026 %}
       {% for paper in papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-            {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-            {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-           <div class="paper-buttons">
-
-          </div>
-        </div>
-      {% endfor %}
-    </div>
-    
-
-    <!-- KT PAPERS -->
-    <div class="tab-pane" id="papers-KT">
-      {% assign kt_papers = site.data.publications.papers | where: "kt", "y" %}
-      {% for paper in kt_papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-            {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-            {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-           <div class="paper-buttons">
-
-          </div>
-        </div>
+        {% include paper.html paper=paper %}
       {% endfor %}
     </div>
 
-    <!-- GNN PAPERS -->
-    <div class="tab-pane" id="papers-GNN">
-      {% assign gnn_papers = site.data.publications.papers | where: "gnn", "y" %}
-      {% for paper in gnn_papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-          {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-              {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-        </div>
+    <div class="tab-pane" id="papers-2025">
+      {% assign papers = site.data.publications.papers | where: "year", 2025 %}
+      {% for paper in papers %}
+        {% include paper.html paper=paper %}
       {% endfor %}
     </div>
 
-    <!-- LLM PAPERS -->
-    <div class="tab-pane" id="papers-llm">
-      {% assign llm_papers = site.data.publications.papers | where: "llm", "y" %}
-      {% for paper in llm_papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-          {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-              {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-        </div>
+    <div class="tab-pane" id="papers-2024">
+      {% assign papers = site.data.publications.papers | where: "year", 2024 %}
+      {% for paper in papers %}
+        {% include paper.html paper=paper %}
       {% endfor %}
     </div>
 
-    <!-- fl PAPERS -->
-    <div class="tab-pane" id="papers-fl">
-      {% assign fl_papers = site.data.publications.papers | where: "fl", "y" %}
-      {% for paper in fl_papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-          {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-              {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-        </div>
+    <div class="tab-pane" id="papers-2023">
+      {% assign papers = site.data.publications.papers | where: "year", 2023 %}
+      {% for paper in papers %}
+        {% include paper.html paper=paper %}
       {% endfor %}
     </div>
 
-    <!-- rl PAPERS -->
-    <div class="tab-pane" id="papers-rl">
-      {% assign rl_papers = site.data.publications.papers | where: "rl", "y" %}
-      {% for paper in rl_papers %}
-        <div class="paper">
-          <p class="title"><b>{{ paper.title }}</b>
-          {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-              {% endif %}
-          </p>
-          <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-        </div>
+    <div class="tab-pane" id="papers-earlier">
+      {% assign papers = site.data.publications.papers | where_exp: "paper", "paper.year < 2023" %}
+      {% for paper in papers %}
+        {% include paper.html paper=paper %}
       {% endfor %}
     </div>
 
+    <div class="tab-pane" id="papers-all">
+      {% for paper in site.data.publications.papers %}
+        {% include paper.html paper=paper %}
+      {% endfor %}
+    </div>
   </div>
 </div>
 

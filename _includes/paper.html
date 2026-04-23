@@ -1,0 +1,21 @@
+<div class="paper">
+  <p class="title"><b>{{ include.paper.title }}</b>
+    {% if include.paper.paper_pdf %}
+      <a class="button" href="{{ include.paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
+    {% endif %}
+    {% if include.paper.slides %}
+      <a class="button" href="{{ include.paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+    {% endif %}
+    {% if include.paper.poster %}
+      <a class="button" href="{{ include.paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+    {% endif %}
+    {% if include.paper.video %}
+      <a class="button" href="{{ include.paper.video }}" target="_blank">Video</a>
+    {% endif %}
+    {% if include.paper.code %}
+      <a class="button" href="{{ include.paper.code }}" target="_blank">Code</a>
+    {% endif %}
+  </p>
+  <p>{{ include.paper.authors }}</p>
+  <p><i>{{ include.paper.venue }}</i></p>
+</div>
