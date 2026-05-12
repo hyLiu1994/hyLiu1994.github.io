@@ -12,12 +12,6 @@ papers:
     year: 2026
     selected: y
 
-  - title: "Seagull: Data-Driven Maritime Traffic Analysis"
-    authors: "Christian S. Jensen, Hengyu Liu, Kristian Torp, Kasper F. Pedersen, Ove Andersen, Jonas Madsen, Niels B. Nielsen"
-    venue: "MDM Demos and Posters 2026"
-    year: 2026
-    selected: y
-
   - title: "Position: Reliable AI Needs Knowledge Objects: A Human-AI Collaboration Perspective"
     authors: "Hengyu Liu, Tianyi Li, Zhihong Cui, Yushuai Li, Zhangkai Wu, Torben Bach Pedersen, Christian S. Jensen"
     venue: "ICML 2026"
@@ -103,6 +97,11 @@ papers:
     authors: "Mingxing Shao, Tiancheng Zhang, Minghe Yu, Zhenghao Liu, Yifang Yin, Hengyu Liu, Ge Yu"
     venue: "ECML-PAKDD 2025"
     year: 2025
+
+  - title: "Seagull: Data-Driven Maritime Traffic Analysis"
+    authors: "Christian S. Jensen, Hengyu Liu, Kristian Torp, Kasper F. Pedersen, Ove Andersen, Jonas Madsen, Niels B. Nielsen"
+    venue: "MDM Demos and Posters 2026 (CORE A)"
+    year: 2026
 
   - title: "DPC-Net: A Decouple-Predict-Correct Framework for Long-Term Time Series Forecasting"
     authors: "Xiangyu Su, Zhihong Cui, Hengyu Liu, Tiancheng Zhang, Minghe Yu, Yubin Bao, Ge Yu"
