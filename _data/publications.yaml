@@ -12,6 +12,12 @@ papers:
     year: 2026
     selected: y
 
+  - title: "Position: Reliable AI Needs Knowledge Objects: A Human-AI Collaboration Perspective"
+    authors: "Hengyu Liu, Tianyi Li, Zhihong Cui, Yushuai Li, Zhangkai Wu, Torben Bach Pedersen, Christian S. Jensen"
+    venue: "ICML 2026"
+    year: 2026
+    selected: y
+
   - title: "RobustZero: Enhancing MuZero Reinforcement Learning Robustness to State Perturbations"
     authors: "Yushuai Li, Hengyu Liu, Torben Bach Pedersen, Yuqiang He, Kim Guldstrand Larsen, Jiachen Xu, Lu Chen, Christian S. Jensen, Tianyi Li"
     venue: "ICML 2025"
@@ -100,6 +106,11 @@ papers:
   - title: "LACERec: Controllable Sequential Recommendation with Weak-Signal Enhancement"
     authors: "Xin Zhang, Tiancheng Zhang, Zhihong Cui, Minghe Yu, Hengyu Liu, Yang Yu, Ge Yu"
     venue: "ICASSP 2026"
+    year: 2026
+
+  - title: "PQ-STM: Pattern-Aware and Query-Guided Spatiotemporal Modeling for Traffic Forecasting"
+    authors: "Yangnan Xu, Hengyu Liu, Zhihong Cui, Tiancheng Zhang, Minghe Yu, Fangling Leng, Ge Yu"
+    venue: "APWeb 2026"
     year: 2026
 
   - title: "Density Harmonized Gradient Descent Online Active Learning for Imbalanced Data Streams"
