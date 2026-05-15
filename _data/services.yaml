@@ -11,8 +11,8 @@ services:
     role: PC Member
     conference: y
 
-  - title: "The 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)"
-    role: PC Member
+  - title: "The 35th International Joint Conference on Artificial Intelligence and the 28th European Conference on Artificial Intelligence (IJCAI-ECAI 2026)"
+    role: PC Member; Gold Tier Reviewer Distinction, Primary Paper Initiative
     conference: y
 
   - title: "The 29th, 30th, 31st International Conference on Database Systems for Advanced Applications (DASFAA 2024, 2025, 2026)"
