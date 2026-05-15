@@ -134,6 +134,17 @@ title: Home
   </div>
 </div>
 
+<!-- ========== Awards ========== -->
+<div class="docs-section" id="awards">
+  <h4>Awards</h4>
+  {% for award in site.data.awards.awards %}
+    <div class="paper">
+      <p class="title"><b>{{ award.title }}</b></p>
+      <p><i>{{ award.year }}</i></p>
+    </div>
+  {% endfor %}
+</div>
+
 <!-- ========== RESUME ========== -->
 <div class="docs-section" id="resume">
   <h4>Vitæ</h4>
