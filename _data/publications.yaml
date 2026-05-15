@@ -17,6 +17,7 @@ papers:
     authors: "Hengyu Liu, Tianyi Li, Zhihong Cui, Yushuai Li, Zhangkai Wu, Torben Bach Pedersen, Christian S. Jensen"
     venue: "ICML 2026"
     year: 2026
+    paper_pdf: "https://arxiv.org/abs/2605.02010"
     selected: y
 
   - title: "RobustZero: Enhancing MuZero Reinforcement Learning Robustness to State Perturbations"
