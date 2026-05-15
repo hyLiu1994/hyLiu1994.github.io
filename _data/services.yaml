@@ -27,6 +27,14 @@ services:
     role: PC Member
     conference: y
 
+  - title: "The 34th ACM International Conference on Multimedia (ACM MM 2026), Main Track"
+    role: Reviewer
+    conference: y
+
+  - title: "The 34th ACM International Conference on Multimedia (ACM MM 2026), Dataset Track"
+    role: Reviewer
+    conference: y
+
   - title: "The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
     role: Reviewer
     conference: y
