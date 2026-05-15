@@ -10,6 +10,7 @@ papers:
     authors: "Hengyu Liu, Tianyi Li, Haoyu Wang, Kristian Torp, Tiancheng Zhang, Yushuai Li, Christian S. Jensen"
     venue: "SIGMOD Demo 2026"
     year: 2026
+    paper_pdf: "https://arxiv.org/pdf/2602.08482"
     selected: y
 
   - title: "Position: Reliable AI Needs Knowledge Objects: A Human-AI Collaboration Perspective"
@@ -36,12 +37,14 @@ papers:
     authors: "Hui Chen, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
     venue: "Artificial Intelligence 2026"
     year: 2026
+    paper_pdf: "https://arxiv.org/pdf/2410.05637"
     selected: y
 
   - title: "CoSrch: Syntactic and Semantic Structure-Aware Code Representation for Effective Code Search"
     authors: "Jia Xu, Yuqiang He, Hengyu Liu, Lv Pin, Tiancheng Zhang"
     venue: "ACM Transactions on Software Engineering and Methodology 2025"
     year: 2025
+    paper_pdf: "https://doi.org/10.1145/3785469"
     selected: y
 
   - title: "S²KT: Modeling Uncertainty in Knowledge Tracing via Semantic-aware Structured Gaussian Distributions"
@@ -54,6 +57,7 @@ papers:
     authors: "Wangyue Lu, Lun Du, Sirui Li, Ke Weng, Haozhe Sun, Hengyu Liu, Minghe Yu, Tiancheng Zhang, Ge Yu"
     venue: "ICLR 2026"
     year: 2026
+    paper_pdf: "https://arxiv.org/pdf/2508.06931"
     selected: y
 
   - title: "A Probabilistic Generative Model for Tracking Multi-Knowledge Concept Mastery Probability"
@@ -80,11 +84,13 @@ papers:
     authors: "Tiancheng Zhang, Hengyu Liu, Jiale Tao, et al."
     venue: "Mathematics 2023"
     year: 2023
+    paper_pdf: "https://www.mdpi.com/2227-7390/11/24/4977/pdf"
 
   - title: "Parallel Prediction Method of Knowledge Proficiency Based on Bloom's Cognitive Theory"
     authors: "Tiancheng Zhang, Hanyu Mao, Hengyu Liu, Yingjie Liu, Minghe Yu, Wenhui Wu, Ge Yu"
     venue: "Mathematics 2023"
     year: 2023
+    paper_pdf: "https://www.mdpi.com/2227-7390/11/24/5002/pdf"
 
   - title: "GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily"
     authors: "Lun Du, Xiaozhou Shi, Qiang Fu, Xiaojun Ma, Hengyu Liu, Shi Han, Dongmei Zhang"
@@ -97,6 +103,7 @@ papers:
     authors: "Mingxing Shao, Tiancheng Zhang, Minghe Yu, Zhenghao Liu, Yifang Yin, Hengyu Liu, Ge Yu"
     venue: "ECML-PAKDD 2025"
     year: 2025
+    paper_pdf: "https://doi.org/10.1007/978-3-032-06109-6_12"
 
   - title: "Seagull: Data-Driven Maritime Traffic Analysis"
     authors: "Christian S. Jensen, Hengyu Liu, Kristian Torp, Kasper F. Pedersen, Ove Andersen, Jonas Madsen, Niels B. Nielsen"
@@ -107,11 +114,13 @@ papers:
     authors: "Xiangyu Su, Zhihong Cui, Hengyu Liu, Tiancheng Zhang, Minghe Yu, Yubin Bao, Ge Yu"
     venue: "DASFAA 2026"
     year: 2026
+    paper_pdf: "https://doi.org/10.1007/978-981-92-0366-6_40"
 
   - title: "LACERec: Controllable Sequential Recommendation with Weak-Signal Enhancement"
     authors: "Xin Zhang, Tiancheng Zhang, Zhihong Cui, Minghe Yu, Hengyu Liu, Yang Yu, Ge Yu"
     venue: "ICASSP 2026"
     year: 2026
+    paper_pdf: "https://doi.org/10.1109/icassp55912.2026.11463590"
 
   - title: "PQ-STM: Pattern-Aware and Query-Guided Spatiotemporal Modeling for Traffic Forecasting"
     authors: "Yangnan Xu, Hengyu Liu, Zhihong Cui, Tiancheng Zhang, Minghe Yu, Fangling Leng, Ge Yu"
@@ -139,11 +148,13 @@ papers:
     authors: "Minghe Yu, Fan Li, Hengyu Liu, Tiancheng Zhang, Ge Yu"
     venue: "Applied Sciences 2022"
     year: 2022
+    paper_pdf: "https://www.mdpi.com/2076-3417/12/17/8822/pdf"
 
   - title: "Event-Based Probabilistic Embedding for POI Recommendation"
     authors: "Tiancheng Zhang, Hengyu Liu, Xue Geng, Ge Yu"
     venue: "Applied Sciences 2023"
     year: 2023
+    paper_pdf: "https://www.mdpi.com/2076-3417/13/3/1236/pdf"
 
   - title: "A Subspace Constraint-Based Approach for Fast Hierarchical Graph Embedding"
     authors: "Minghe Yu, Xu Chen, Xinhao Gu, Hengyu Liu, Lun Du"
@@ -163,6 +174,7 @@ papers:
     authors: "Chongjian Yue, Lun Du, Qiang Fu, Wendong Bi, Hengyu Liu, Yu Gu, Di Yao"
     venue: "WSDM Cup 2022"
     year: 2022
+    paper_pdf: "https://arxiv.org/pdf/2202.12713"
 
   - title: "Real-Time Driver Fatigue Detection Based on ELM"
     authors: "Hengyu Liu, Tiancheng Zhang, Haibin Xie, Hongbiao Chen, Fangfang Li"
@@ -174,6 +186,7 @@ papers:
     authors: "Xue He, Tiancheng Zhang, Hengyu Liu, Ge Yu"
     venue: "Proceedings of ELM 2018"
     year: 2018
+    paper_pdf: "https://doi.org/10.1007/978-3-030-23307-5_32"
 
   - title: "GPT4Graph: Can Large Language Models Understand Graph-Structured Data? An Empirical Evaluation and Benchmarking"
     authors: "Jiayan Guo, Lun Du, Hengyu Liu"
