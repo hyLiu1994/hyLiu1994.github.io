@@ -67,6 +67,13 @@ papers:
     paper_pdf: "https://doi.org/10.1145/3785469"
     selected: y
 
+  - title: "TQR: Modelling user temporal preference for effective question routing"
+    authors: "Jia Xu, Zhengkai Li, Pin Lv, Hengyu Liu, Zulong Chen, Ning Wang, Tiancheng Zhang"
+    venue: "Neural Networks 204, 109239 (2026)"
+    year: 2026
+    paper_url: "https://doi.org/10.1016/j.neunet.2026.109239"
+    selected: y
+
   - title: "S²KT: Modeling Uncertainty in Knowledge Tracing via Semantic-aware Structured Gaussian Distributions"
     authors: "Wenhui Wu, Tiancheng Zhang, Hengyu Liu, Lun Du, Zikai Li, Mingxing Shao, Minghe Yu, Yifang Yin, Ge Yu"
     venue: "WWW 2026"

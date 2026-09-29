@@ -1,5 +1,8 @@
 <div class="paper">
   <p class="title"><b>{{ include.paper.title }}</b>
+    {% if include.paper.paper_url %}
+      <a class="button" href="{{ include.paper.paper_url }}" target="_blank" rel="noopener noreferrer">Paper</a>
+    {% endif %}
     {% if include.paper.paper_pdf %}
       <a class="button" href="{{ include.paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
     {% endif %}
