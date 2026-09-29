@@ -12,11 +12,19 @@ papers:
     note: "* Equal contribution (co-first authors)."
     selected: y
 
+  - title: "Position: Reliable AI Needs to Externalize Implicit Knowledge: A Human-AI Collaboration Perspective"
+    authors: "Hengyu Liu, Tianyi Li, Zhihong Cui, Yushuai Li, Zhangkai Wu, Torben Bach Pedersen, Christian S. Jensen"
+    venue: "ICML 2026"
+    year: 2026
+    paper_pdf: "https://arxiv.org/abs/2605.02010"
+    selected: y
+
   - title: "Locating and Repairing Domain Shift in VLM Trajectory Planning"
     authors: "Zhihong Cui, Hengyu Liu*, Michael Alexander Riegler, Guandong Xu, Amir Taherkordi, Tor Skeie"
     venue: "NeurIPS 2026"
     year: 2026
     selected: y
+
   - title: "MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data"
     authors: "Hengyu Liu, Tianyi Li, Yuqiang He, Kristian Torp, Yushuai Li, Christian S. Jensen"
     venue: "PVLDB 2026"
@@ -29,13 +37,6 @@ papers:
     venue: "SIGMOD Demo 2026"
     year: 2026
     paper_pdf: "https://arxiv.org/pdf/2602.08482"
-    selected: y
-
-  - title: "Position: Reliable AI Needs to Externalize Implicit Knowledge: A Human-AI Collaboration Perspective"
-    authors: "Hengyu Liu, Tianyi Li, Zhihong Cui, Yushuai Li, Zhangkai Wu, Torben Bach Pedersen, Christian S. Jensen"
-    venue: "ICML 2026"
-    year: 2026
-    paper_pdf: "https://arxiv.org/abs/2605.02010"
     selected: y
 
   - title: "RobustZero: Enhancing MuZero Reinforcement Learning Robustness to State Perturbations"
@@ -219,3 +220,4 @@ papers:
     venue: "arXiv preprint arXiv:2309.15499"
     year: 2023
     paper_pdf: "https://arxiv.org/pdf/2309.15499.pdf"
+
