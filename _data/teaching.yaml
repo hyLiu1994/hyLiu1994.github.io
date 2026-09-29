@@ -1,0 +1,37 @@
+groups:
+  - title: "Course and Tutorial Teaching"
+    entries:
+      - title: "Database Software Architecture (SW3)"
+        role: "Instructor"
+        institution: "Aalborg University"
+        time: "Autumn 2026"
+      - title: "Auto-Formalization in Large Language Models Era: From Mathematical Proofs to Verifying LLM Reasoning"
+        role: "Tutorial Co-organizer and Instructor"
+        institution: "AAAI"
+        time: "2026"
+      - title: "Object-Oriented Programming (C++)"
+        role: "Teaching Assistant"
+        institution: "Northeastern University"
+        time: "Spring 2019–2020"
+      - title: "ACM-ICPC Training Team"
+        role: "Teaching Assistant"
+        institution: "Northeastern University"
+        time: "2017–2018"
+
+  - title: "Student Supervision"
+    entries:
+      - title: "Two SW7 student groups"
+        role: "Project Supervisor"
+        institution: "Aalborg University"
+        time: "Autumn 2026"
+      - title: "Real-time Maritime Surveillance"
+        role: "Group Co-supervisor"
+        institution: "Aalborg University"
+        time: "Autumn 2024"
+
+  - title: "Pedagogical Training"
+    entries:
+      - title: "Problem-based Learning Training Course"
+        role: "Completed"
+        institution: "Aalborg University"
+        time: "Autumn 2024"

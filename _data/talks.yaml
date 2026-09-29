@@ -1,4 +1,8 @@
 talks:
+    - name: "School of Computer Science and Engineering, Northeastern University, China"
+      time: "July 2026"
+      title: "Trustworthy AI for Spatio-Temporal Data: From Data Repair and Knowledge Externalization to Self-Evolving Agents"
+      host: "Prof. Ge Yu"
     # - name: "CMU ML Seminar / Princeton Theory Seminar"
     #   time: "Fall 2022"
     #   title: "Is Importance Weighting Incompatible with Interpolating Classifiers?"
