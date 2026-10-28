@@ -154,6 +154,12 @@ papers:
     venue: "APWeb 2026"
     year: 2026
 
+  - title: "StyleTimeQAM: Modeling Learning Style and Temporal Dynamics for Question-Answer Matching in Online Teaching Groups"
+    authors: "Xinyang Li, Zhihong Cui, Zhongming Yao, Zhangkai Wu, Hengyu Liu, Kristian Torp, Minghe Yu, Tiancheng Zhang, Ge Yu"
+    venue: "BESC 2026"
+    year: 2026
+    note: "Best Special Session Paper Award."
+
   - title: "Density Harmonized Gradient Descent Online Active Learning for Imbalanced Data Streams"
     authors: "Jianhao Huang, Zhihong Zeng, Zhangkai Wu, Hengyu Liu, Yanfang Liu"
     venue: "BESC 2025"
