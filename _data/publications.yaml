@@ -55,15 +55,15 @@ papers:
 
   - title: "Federated Neural Nonparametric Point Processes"
     authors: "Hui Chen, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
-    venue: "Artificial Intelligence 2026"
-    year: 2026
+    venue: "Artificial Intelligence 2025"
+    year: 2025
     paper_pdf: "https://arxiv.org/pdf/2410.05637"
     selected: y
 
   - title: "CoSrch: Syntactic and Semantic Structure-Aware Code Representation for Effective Code Search"
     authors: "Jia Xu, Yuqiang He, Hengyu Liu, Lv Pin, Tiancheng Zhang"
-    venue: "ACM Transactions on Software Engineering and Methodology 2025"
-    year: 2025
+    venue: "ACM Transactions on Software Engineering and Methodology 2026"
+    year: 2026
     paper_pdf: "https://doi.org/10.1145/3785469"
     selected: y
 
