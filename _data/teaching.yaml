@@ -1,11 +1,11 @@
 groups:
   - title: "Course and Tutorial Teaching"
     entries:
-      - title: "Database Software Architecture (SW3)"
+      - title: "Databases and Software Architecture (SW3)"
         role: "Instructor"
         institution: "Aalborg University"
         time: "Autumn 2026"
-      - title: "Auto-Formalization in Large Language Models Era: From Mathematical Proofs to Verifying LLM Reasoning"
+      - title: "Auto-Formalization in the Large Language Model Era"
         role: "Tutorial Co-organizer and Instructor"
         institution: "AAAI"
         time: "2026"

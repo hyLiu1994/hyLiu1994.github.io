@@ -13,7 +13,7 @@ papers:
     selected: y
 
   - title: "Position: Reliable AI Needs to Externalize Implicit Knowledge: A Human-AI Collaboration Perspective"
-    authors: "Hengyu Liu, Tianyi Li, Zhihong Cui, Yushuai Li, Zhangkai Wu, Torben Bach Pedersen, Christian S. Jensen"
+    authors: "Hengyu Liu, Tianyi Li, Zhihong Cui, Yushuai Li, Zhangkai Wu, Torben Bach Pedersen, Kristian Torp, Christian S. Jensen"
     venue: "ICML 2026"
     year: 2026
     paper_pdf: "https://arxiv.org/abs/2605.02010"
@@ -27,27 +27,27 @@ papers:
 
   - title: "MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data"
     authors: "Hengyu Liu, Tianyi Li, Yuqiang He, Kristian Torp, Yushuai Li, Christian S. Jensen"
-    venue: "PVLDB 2026"
-    year: 2026
+    venue: "PVLDB 2025"
+    year: 2025
     paper_pdf: "https://arxiv.org/pdf/2507.20362"
     selected: y
 
   - title: "CLEAR: A Knowledge-Centric Vessel Trajectory Analysis Platform"
-    authors: "Hengyu Liu, Tianyi Li, Haoyu Wang, Kristian Torp, Tiancheng Zhang, Yushuai Li, Christian S. Jensen"
+    authors: "Hengyu Liu, Tianyi Li, Haoyu Wang, Kristian Torp, Yushuai Li, Tiancheng Zhang, Torben Bach Pedersen, Christian S. Jensen"
     venue: "SIGMOD Demo 2026"
     year: 2026
     paper_pdf: "https://arxiv.org/pdf/2602.08482"
     selected: y
 
   - title: "RobustZero: Enhancing MuZero Reinforcement Learning Robustness to State Perturbations"
-    authors: "Yushuai Li, Hengyu Liu, Torben Bach Pedersen, Yuqiang He, Kim Guldstrand Larsen, Jiachen Xu, Lu Chen, Christian S. Jensen, Tianyi Li"
+    authors: "Yushuai Li, Hengyu Liu, Torben Bach Pedersen, Yuqiang He, Kim Guldstrand Larsen, Lu Chen, Christian S. Jensen, Jiachen Xu, Tianyi Li"
     venue: "ICML 2025"
     year: 2025
     paper_pdf: "https://openreview.net/pdf?id=DaOdkXgLvE"
     selected: y
 
   - title: "FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification"
-    authors: "Hui Chen, Hengyu Liu, Xuhui Fan, Zhangkai Wu, Longbing Cao"
+    authors: "Hui Chen, Hengyu Liu, Zhangkai Wu, Xuhui Fan, Longbing Cao"
     venue: "IEEE Transactions on Neural Networks and Learning Systems 2025"
     year: 2025
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10988883"
@@ -55,13 +55,13 @@ papers:
 
   - title: "Federated Neural Nonparametric Point Processes"
     authors: "Hui Chen, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
-    venue: "Artificial Intelligence 2025"
-    year: 2025
+    venue: "Artificial Intelligence 2026"
+    year: 2026
     paper_pdf: "https://arxiv.org/pdf/2410.05637"
     selected: y
 
   - title: "CoSrch: Syntactic and Semantic Structure-Aware Code Representation for Effective Code Search"
-    authors: "Jia Xu, Yuqiang He, Hengyu Liu, Lv Pin, Tiancheng Zhang"
+    authors: "Jia Xu, Yuqiang He, Hengyu Liu, Pin Lv, Tiancheng Zhang, Zhihong Tian"
     venue: "ACM Transactions on Software Engineering and Methodology 2026"
     year: 2026
     paper_pdf: "https://doi.org/10.1145/3785469"
@@ -104,7 +104,7 @@ papers:
   - title: "Tracking Knowledge Structures and Proficiencies of Students with Learning Transfer"
     authors: "Hengyu Liu, Tiancheng Zhang, Fan Li, Yu Gu, Ge Yu"
     venue: "IEEE Access 9, 55413-55421"
-    year: 2020
+    year: 2021
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230428"
 
   - title: "Enhancing Dropout Prediction in Distributed Educational Data Using Learning Pattern Awareness: A Federated Learning Approach"
@@ -133,12 +133,12 @@ papers:
     paper_pdf: "https://doi.org/10.1007/978-3-032-06109-6_12"
 
   - title: "Seagull: Data-Driven Maritime Traffic Analysis"
-    authors: "Christian S. Jensen, Hengyu Liu, Kristian Torp, Kasper F. Pedersen, Ove Andersen, Jonas Madsen, Niels B. Nielsen"
+    authors: "Christian S. Jensen, Hengyu Liu, Kasper F. Pedersen, Kristian Torp, Ove Andersen, Jonas Madsen, Niels B. Nielsen"
     venue: "MDM Demos and Posters 2026 (CORE A)"
     year: 2026
 
   - title: "DPC-Net: A Decouple-Predict-Correct Framework for Long-Term Time Series Forecasting"
-    authors: "Xiangyu Su, Zhihong Cui, Hengyu Liu, Tiancheng Zhang, Minghe Yu, Yubin Bao, Ge Yu"
+    authors: "Xiangyu Su, Zhihong Cui, Hengyu Liu, Tiancheng Zhang, Minghe Yu"
     venue: "DASFAA 2026"
     year: 2026
     paper_pdf: "https://doi.org/10.1007/978-981-92-0366-6_40"
@@ -202,12 +202,6 @@ papers:
     year: 2023
     paper_pdf: "https://link.springer.com/content/pdf/10.1007/s11704-023-3460-7.pdf"
     selected: y
-
-  - title: "HTGN-BTW: Heterogeneous Temporal Graph Network with Bi-Time-Window Training Strategy for Temporal Link Prediction"
-    authors: "Chongjian Yue, Lun Du, Qiang Fu, Wendong Bi, Hengyu Liu, Yu Gu, Di Yao"
-    venue: "WSDM Cup 2022"
-    year: 2022
-    paper_pdf: "https://arxiv.org/pdf/2202.12713"
 
   - title: "Real-Time Driver Fatigue Detection Based on ELM"
     authors: "Hengyu Liu, Tiancheng Zhang, Haibin Xie, Hongbiao Chen, Fangfang Li"

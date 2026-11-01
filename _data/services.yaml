@@ -59,6 +59,10 @@ services:
     role: Guest Editor
     journal: y
 
+  - title: "Frontiers in Artificial Intelligence: Research Topic \"Trustworthy Multimodal Intelligence: Robust, Adaptive, and Uncertainty-Aware Learning\""
+    role: Guest Editor
+    journal: y
+
   - title: "Scientific Reports 2026"
     role: Reviewer
     journal: y
